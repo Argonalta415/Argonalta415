@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   
 <div>
 </a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="https://instagram.com/math_g_carvalho" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
   </a>
   <a href = "mailto:contato@rafaballerini.tech"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = " _blank "> 
 </a>
