@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 </a>
   <a href="https://instagram.com/math_g_carvalho" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
   </a>
-  <a href = "mailto:contato@rafaballerini.tech"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = " _blank "> 
+  <a href = "mailto:m.carvalho415@hotmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = " _blank "> 
 </a>
-  <a href="https://www.linkedin.com/in/matheus-gon%C3%A7alve-3a65041a5" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+  <a href="https://www.linkedin.com/in/matheus-gonçalves-3a65041a5/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 
   </div>
